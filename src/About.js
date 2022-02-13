@@ -10,9 +10,9 @@ const About = () => {
             <div className="mt-5">
                 <ul>
                     <li class="or"><p class="lead leadc">I am a UI Developer with 1.2 Years of
-            experience in Software Development and Testing <br />Life Cycle.</p></li>
+            experience in Software Development and Testing Life Cycle.</p></li>
                     <li class="or"><p class="lead leadc">I have experience in utilising open-source
-            libraries/Frameworks such as React.js, Node.js,<br />Angular, Bootstrap.</p></li>
+            libraries/Frameworks such as React.js, Node.js, Angular, Bootstrap.</p></li>
                     <li class="or"><p class="lead leadc">I have sound knowlege of JavaScript Testing Framework such as JEST.</p></li>
                 </ul>
             </div>
