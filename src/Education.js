@@ -5,9 +5,9 @@ const Education = () => {
     <div className="mt-3 ml-3 colortext">
         <h1>Education</h1>
         <hr></hr>
-        <div className="mt-5 styletable">
+        <div className="mt-5">
         <i className="fa fa-graduation-cap fac"><span className="ml-3">KIIT UNIVERSITY</span></i>
-        <div className="mt-4">
+        <div className="mt-4 styletable">
         <table class="table table-bordered">
     <thead>
       <tr>
