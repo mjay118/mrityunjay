@@ -15,7 +15,7 @@ console.log("hi",buttons)
                 <div class="row">
                     <div className={"col-md-3 col-sm-12 text-danger leftside"}>
                         <div className={"text-center mt-3"}>
-                            <Avatar size={130} className="text-center" src="https://asiannews.in/wp-content/uploads/2021/09/Ranveer.jpeg" />
+                            <Avatar size={130} className="text-center" src="image.jpg" />
                         </div>
                         <div className={"text-center mt-3"}>
                             <h3>MRITYUNJAY</h3>
