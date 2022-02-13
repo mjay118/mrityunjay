@@ -79,3 +79,6 @@ color: black i !important;
   border-color: orangered !important;
   background: #fff;
 }
+.styletable{
+  overflow-x:auto;
+}
